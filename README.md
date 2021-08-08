@@ -27,6 +27,7 @@ lcg blog
 ## vue
 
 [双向绑定原理](./vue/双向绑定原理.md)
+[vue 生命周期](./vue/vue的生命周期.md)
 
 ## 算法
 
