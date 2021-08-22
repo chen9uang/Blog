@@ -5,11 +5,11 @@ lcg blog
 
 ## js
 
+[js中变量和属性的关系]('./js/js中的变量和属性的关系.md')   
 [undefined ing...]('..')   
 [原型链 ing...]('')   
 [什么是闭包 ing...]('')   
-[this指向 ing...]('')   
-[Promise 原理 ing...]()   
+[this指向 ing...]('')     
 
 
 ## http
