@@ -5,7 +5,7 @@ lcg blog
 
 ## js
 
-[js中变量和属性的关系]('./js/js中的变量和属性的关系.md')   
+[js中变量和属性的关系](./js/js中的变量和属性的关系.md)   
 [undefined ing...]('..')   
 [原型链 ing...]('')   
 [什么是闭包 ing...]('')   
@@ -22,8 +22,8 @@ lcg blog
 
 ## css
 
-[outline 和 border 的区别]('./css/outline和border的区别.md')    
-[css 选择器的权重]('./css/css选择器的权重.md')   
+[outline 和 border 的区别](./css/outline和border的区别.md)    
+[css 选择器的权重](/css/css选择器的权重.md)   
 [深入了解vertical-align ing...]()
 
 ## vue
